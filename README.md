@@ -3,6 +3,11 @@
 **Fastest NVIDIA GPU miner**  
 Leading performance on KawPow • Ethash • Autolykos2 • Octopus • FishHash • HeavyHash
 
+T-Rex Miner – the ultimate high-speed NVIDIA miner. №1 hashrate on Ravencoin, Ergo, Kaspa, Iron Fish, Conflux, Alephium, Karlsen and others. Supports KawPow, Autolykos2, HeavyHash, FishHash, Octopus, Blake3, KarlsenHashv2, Ethash, ProgPoW variants. Complete LHR bypass (100% unlock), dual/triple intensity mining, core/memory/power/fan overclocking, HTTP+JSON monitoring API, automatic restart on crash. Only 1% developer fee. Best choice for RTX 40/30/20 series and older cards.
+
+
+
+
 ## Supported Algorithms (1% dev fee)
 
 | Algorithm         | Example coins                  |
